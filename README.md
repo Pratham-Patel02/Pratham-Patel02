@@ -1,6 +1,6 @@
 ## Hi there 👋
 <h1 align="center">Hi 👋, I'm Pratham Patel</h1>
-<h3 align="center">A passionate Business Data Analyst from India.</h3>
+<h3 align="center">I have Business Data Analytics as a specialization of Bachelor of Business Administration from Parul university, Vadodara, Gujarat, India.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pratham-patel02&label=Profile%20views&color=0e75b6&style=flat" alt="pratham-patel02" /> </p>
 
